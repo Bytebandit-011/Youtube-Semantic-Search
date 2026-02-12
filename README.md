@@ -138,11 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the web framework
 - [FAISS](https://github.com/facebookresearch/faiss) for vector similarity search
 
-## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/youtube-rag-qa](https://github.com/yourusername/youtube-rag-qa)
 
 ---
 
