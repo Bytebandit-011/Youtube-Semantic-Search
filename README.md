@@ -14,7 +14,8 @@ An intelligent YouTube video Q&A application built with Streamlit, LangChain, an
 
 ### Main Interface
 <!-- Add screenshot here -->
-![Main Interface](screenshots/main-interface.png)
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/1ef524ee-5cd3-48d3-9221-07514f59900d" />
+
 
 ### Video Processing
 <!-- Add screenshot here -->
