@@ -19,8 +19,9 @@ An intelligent YouTube video Q&A application built with Streamlit, LangChain, an
 
 ### Video Processing
 <!-- Add screenshot here -->
-<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/4d9b3977-6206-4199-bdc7-34b8ea3ec527" />
-" />
+
+<img width="1912" height="967" alt="rag2" src="https://github.com/user-attachments/assets/d9044c09-e85f-4dae-b1ab-9521143b2df1" />
+
 
 ### Q&A in Action
 <!-- Add screenshot here -->
